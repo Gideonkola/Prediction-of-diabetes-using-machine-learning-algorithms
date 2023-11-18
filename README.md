@@ -13,11 +13,17 @@ Data used in this repository was obtained from Kaggle and originally from the Na
 
 **Approach to analysis**
 For the analysis, I had to first install all the libraries that would be needed, and they are Pandas. Pandas is a library applicable for data manipulation and analysis in Python.
+
 NumPy- it’s applicable for adding support for large, multi-dimensional arrays and matrices, and it can be used for a high-level mathematical operation.
+
 Matplotlib-Matplotlib is applicable for plotting in Python.
+
 Seaborn- a library for making charts.
+
 Scikit-learn- It is a free software machine learning library applicable to the Python programming language.
-Exploratory data analysis
+
+**Exploratory data analysis**
+
 After the data were loaded into the Google Collab IDE using Panda's library, missing values were checked to ascertain if my data was clean or if I needed to clean the data. It was found that there are no missing values in the dataset which makes the analysis easy and straightforward. I also checked the head to have a quick glance at the dataset by checking the first five values from the head. The first five summary was done, and other exploratory analyses were done too. The data was also visualized using a chart, correlation was done, and some visualization. The dataset was standardized for uniformity before they were divided into train and test sets with a split ratio of 0.2. 
 
 
